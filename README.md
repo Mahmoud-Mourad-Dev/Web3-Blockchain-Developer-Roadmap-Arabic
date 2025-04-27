@@ -15,7 +15,7 @@
 - Blockchain Fundmentals
   - Data Structure
   - Decenteralized Network
-  - Distributed System
+  - [Distributed System](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
   - Consensus Mechanisms
       - pow
       - pos
