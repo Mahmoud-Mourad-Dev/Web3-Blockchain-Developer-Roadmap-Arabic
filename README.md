@@ -4,4 +4,25 @@
 ## Roadmap
 ![Roadmap](./web3eg.svg)
 
+# 1- Core Blockchain
+ - Programming   
+   - c+
+   - python
+   - rust
+   - go
+   
+   
+- Blockchain Fundmentals
+  - Data Structure
+  - Decenteralized Network
+  - Distributed System
+  - Consensus Mechanisms
+      - pow
+      - pos
+  - Cryptography
+  - Bitcoin white paper
+  - Ethereum White paper
+
+
+
 
